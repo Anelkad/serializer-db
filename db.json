@@ -1,33 +1,33 @@
 {
   "data": [
       {
-        "polymorphictype": "CAR",
-        "carname": "Toyota Camry",
-        "carmodel": "2023",
-        "carcolor": "Blue",
-        "imageurl": "https://autoreview.ru/images/Article/1705/Article_170512_860_575.jpg"
+        "polymorphicType": "CAR",
+        "carName": "Toyota Camry",
+        "carModel": "2023",
+        "carColor": "Blue",
+        "imageUrl": "https://autoreview.ru/images/Article/1705/Article_170512_860_575.jpg"
       },
       {
-        "polymorphictype": "CAR",
-        "carname": "Kia Sorento",
-        "carmodel": "2023",
-        "carcolor": "White",
-        "imageurl": "https://motor.elpais.com/wp-content/uploads/2020/10/NUEVO-KIA-SORENTO-2020_010H-1046x616.jpg"
+        "polymorphicType": "CAR",
+        "carName": "Kia Sorento",
+        "carModel": "2023",
+        "carColor": "White",
+        "imageUrl": "https://motor.elpais.com/wp-content/uploads/2020/10/NUEVO-KIA-SORENTO-2020_010H-1046x616.jpg"
       },
       {
-        "polymorphictype": "CAR",
-        "carname": "Tesla Model 3",
-        "carmodel": "2020",
-        "carcolor": "Red",
-        "imageurl": "https://hips.hearstapps.com/hmg-prod/images/model-3-1586786409.jpg"
+        "polymorphicType": "CAR",
+        "carName": "Tesla Model 3",
+        "carModel": "2020",
+        "carColor": "Red",
+        "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/model-3-1586786409.jpg"
       },
       {
-        "polymorphictype": "PERSON",
-        "personname": "Elon Mask",
-        "personage": "52",
-        "personaddress": "Texas",
-        "persongender": "Male",
-        "imageurl": "https://i.guim.co.uk/img/media/bbe55e72cb8443be882e1bf4fd8cd6e0c447c52e/0_183_5500_3300/master/5500.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=5bfb806efe7e1abf87572d9e548ae9e5"
+        "polymorphicType": "PERSON",
+        "personName": "Elon Mask",
+        "personAge": "52",
+        "personAddress": "Texas",
+        "personGender": "Male",
+        "imageUrl": "https://i.guim.co.uk/img/media/bbe55e72cb8443be882e1bf4fd8cd6e0c447c52e/0_183_5500_3300/master/5500.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=5bfb806efe7e1abf87572d9e548ae9e5"
       }
     ]
 }
