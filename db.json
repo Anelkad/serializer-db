@@ -1,14 +1,32 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "data": [
+      {
+        "polymorphictype": "CAR",
+        "carname": "Toyota Camry",
+        "carmodel": "2023",
+        "carcolor": "Blue",
+        "imageurl": "https://autoreview.ru/images/Article/1705/Article_170512_860_575.jpg"
+      },
+      {
+        "polymorphictype": "CAR",
+        "carname": "Kia Sorento",
+        "carmodel": "2023",
+        "carcolor": "White",
+        "imageurl": "https://motor.elpais.com/wp-content/uploads/2020/10/NUEVO-KIA-SORENTO-2020_010H-1046x616.jpg"
+      },
+      {
+        "polymorphictype": "CAR",
+        "carname": "Tesla Model 3",
+        "carmodel": "2020",
+        "carcolor": "Red",
+        "imageurl": "https://hips.hearstapps.com/hmg-prod/images/model-3-1586786409.jpg"
+      },
+      {
+        "polymorphictype": "PERSON",
+        "personname": "Elon Mask",
+        "personage": "52",
+        "personaddress": "Texas",
+        "persongender": "Male"
+      }
+    ]
 }
