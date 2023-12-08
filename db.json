@@ -19,7 +19,7 @@
         "carName": "Tesla Model 3",
         "carModel": "2020",
         "carColor": "Red",
-        "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/model-3-1586786409.jpg"
+        "imageUrl": "https://racv.com.au/content/dam/racv/images/content-hub/transport/cars/tesla/model-3/900x600-tesla-model-3.jpg"
       },
       {
         "polymorphicType": "PERSON",
@@ -27,7 +27,7 @@
         "personAge": "52",
         "personAddress": "Texas",
         "personGender": "Male",
-        "imageUrl": "https://i.guim.co.uk/img/media/bbe55e72cb8443be882e1bf4fd8cd6e0c447c52e/0_183_5500_3300/master/5500.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=5bfb806efe7e1abf87572d9e548ae9e5"
+        "imageUrl": "https://cdn.britannica.com/05/236505-050-17B6E34A/Elon-Musk-2022.jpg"
       }
     ]
 }
