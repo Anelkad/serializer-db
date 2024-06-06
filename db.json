@@ -5,6 +5,7 @@
         "carName": "Toyota Camry",
         "carModel": "2023",
         "carColor": "Blue",
+        "progress": 0,
         "imageUrl": "https://autoreview.ru/images/Article/1705/Article_170512_860_575.jpg"
       },
       {
@@ -12,6 +13,7 @@
         "carName": "Kia Sorento",
         "carModel": "2023",
         "carColor": "White",
+        "progress": 0.5,
         "imageUrl": "https://motor.elpais.com/wp-content/uploads/2020/10/NUEVO-KIA-SORENTO-2020_010H-1046x616.jpg"
       },
       {
@@ -19,6 +21,7 @@
         "carName": "Tesla Model 3",
         "carModel": "2020",
         "carColor": "Red",
+        "progress": 0.7,
         "imageUrl": "https://racv.com.au/content/dam/racv/images/content-hub/transport/cars/tesla/model-3/900x600-tesla-model-3.jpg"
       },
       {
@@ -27,6 +30,7 @@
         "personAge": "52",
         "personAddress": "Texas",
         "personGender": "Male",
+        "progress": 0.9,
         "imageUrl": "https://cdn.britannica.com/05/236505-050-17B6E34A/Elon-Musk-2022.jpg"
       }
     ]
