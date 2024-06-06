@@ -23,15 +23,6 @@
         "carColor": "Red",
         "progress": 0.7,
         "imageUrl": "https://racv.com.au/content/dam/racv/images/content-hub/transport/cars/tesla/model-3/900x600-tesla-model-3.jpg"
-      },
-      {
-        "polymorphicType": "PERSON",
-        "personName": "Elon Mask",
-        "personAge": "52",
-        "personAddress": "Texas",
-        "personGender": "Male",
-        "progress": 0.9,
-        "imageUrl": "https://cdn.britannica.com/05/236505-050-17B6E34A/Elon-Musk-2022.jpg"
       }
     ]
 }
